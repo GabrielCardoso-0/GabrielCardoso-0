@@ -5,6 +5,7 @@
 
 <div  align="start" >
 - ⚙️ Atualmente atuo como Suporte N1 a sistemas ERP, realizando atendimento técnico, análise e resolução de incidentes, além de garantir a estabilidade e o bom funcionamento dos sistemas utilizados pelos clientes.
+  ⚙️ Também atuo como estagiário em desenvolvimento e suporte em uma software house especializada em soluções de e-mail corporativo, desenvolvendo novas funcionalidades e realizando a manutenção das soluções existentes,    além de prestar suporte técnico aos usuários.
   <br>
 - 👨🏻‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFFAR, com foco em aprimorar minhas habilidades em desenvolvimento de software e boas práticas de engenharia.
   <br>
